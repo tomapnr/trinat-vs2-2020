@@ -1,37 +1,19 @@
-# trinat-java-2020
+# trinat-vs2-2020
 
-Abgabe der Aufgaben für Trinat Java 2020. Für jede(n) Teilnehmer(in) gibt es einen eigenen Branch:
+Vorlage für Abgabe der Aufgaben verteilte Systeme 2 (HS2020)
 
 <br>
-
-Branch              |
---------------------|
-legrandd			|
-LLagel				|
-enzojob 			|
-Schmiche 			|
-Haris-Mehinovic 	|
-MatisGourdes 		|
-KSchmidt888 		|
-BollingerJerome 	|
-tMohler57 			|
-noemiebertrand 		|
-isiid 				|
-jonasprob 			|
-Alexis68128 		|
-Mitch0499 			|
-reyTheo 			|
 
 
 ## Non-modular - Maven
 
-`trinat-java-2020` sample non-modular project to run with Maven
+`trinat-vs2-2020` sample non-modular project to run with Maven
 
 ### Linux / Mac
 
 If you run on Linux or Mac, follow these steps:
 
-    cd to the folder trinat-java-2020
+    cd to the folder trinat-vs2-2020
 
 To run the project:
 
@@ -40,14 +22,14 @@ To run the project:
 To create a fat jar:
 
     ./mvnw clean compile package
-    java -jar shade/trinat-java-2020.jar
+    java -jar shade/trinat-vs2-2020.jar
 
 
 ### Windows
 
 If you run on Windows, follow these steps:
 
-    cd to the folder trinat-java-2020
+    cd to the folder trinat-vs2-2020
 
 To run the project:
 
@@ -56,7 +38,7 @@ To run the project:
 To create a fat jar:
 
     mvnw clean compile package
-    java -jar shade\trinat-java-2020.jar
+    java -jar shade\trinat-vs2-2020.jar
 
 
 ## Import Maven Project in Eclipse
@@ -67,10 +49,3 @@ If there is no git connector available... please install it
 
 
 ## Trinat Projects
-
-- https://github.com/tMohler57/Vokabeltrainer
-- https://github.com/MatisGourdes/Project-undercover-2020
-- https://github.com/BollingerJerome
-- https://github.com/noemiebertrand/BatailleNavale
-- https://github.com/noemiebertrand/Seeschlacht
-- https://github.com/enzojob/eiffel-snake
