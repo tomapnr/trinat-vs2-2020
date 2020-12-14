@@ -23,13 +23,7 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.core</groupId>
-			<artifactId>core-jar</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/lib/core.jar</systemPath>
-		</dependency>
+
 		<dependency>
 			<groupId>org.openjfx</groupId>
 			<artifactId>javafx-controls</artifactId>
