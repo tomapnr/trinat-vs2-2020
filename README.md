@@ -3,4 +3,4 @@
 Every Exercice has been done except for the Exercice 10 from Threads1 and the Docker NGINX exercice
 
 <br>
-Link to my DockerHub:
+Link to my Docker-Whale Exercice: https://hub.docker.com/repository/docker/pearwick/docker-whale
